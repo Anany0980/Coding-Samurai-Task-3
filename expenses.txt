@@ -1,0 +1,2 @@
+2023-12-02|100.0|food|ate a burger
+2023-12-02|200.0|self care|had a hair cut
